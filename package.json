@@ -4,7 +4,7 @@
   "description": "STL file viewer using Three.js",
   "main": "script.js",
   "scripts": {
-    "start": "vite",
+    "start": "vite --host",
     "build": "vite build"
   },
   "dependencies": {
